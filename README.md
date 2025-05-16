@@ -4,6 +4,7 @@ This Power BI dashboard visualizes the overall performance of a business's sales
 
 ## 🔧 Tools Used
 - Microsoft Power BI
+- Microsoft Excel
 
 ## 📊 Dashboard Features
 - Total Sales, Units Sold, and Profit KPIs
@@ -19,12 +20,10 @@ This Power BI dashboard visualizes the overall performance of a business's sales
 ## 📁 Files Included
 - Dashboard screenshots (![alt text](Sales-summary-dashboard.png), ![alt text](Sales-detailed_view-dashboard.png), ![alt text](Sales-drill_down-dashboard.png))
 
-[Download the power BI file]
-
 ## Author
 **Ernest Yesufu**
 Data Analyst | SQL, Python, Excel & Power BI
 Based in United Kingdom
 
 ## 🔗 Live Portfolio View
-https://nextoyes99.github.io/ernestyesufu.github.io/
+https://ernestyesufu.github.io/
